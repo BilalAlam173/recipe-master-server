@@ -19,6 +19,8 @@
   "homepage": "https://github.com/BilalAlam173/recipe-master-server#readme",
   "dependencies": {
     "express": "^4.16.2",
+    "express-basic-auth": "^1.1.2",
+    "firebase": "^4.5.1",
     "require": "^2.4.20"
   }
 }
